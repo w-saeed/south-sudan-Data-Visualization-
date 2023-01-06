@@ -12,9 +12,7 @@ South-Sudan (Water points) and population:
 6. Cluster for crowding markers.<br>
 7. (Legend) with information about the Status of the Water points.<br>
 8. Time Slider to show the water points that were there in a specific year.<br>
-
-- ### Data analysis:
-  South Sudan Population by state for the years (2006- 2015).
+9. South Sudan Population by state for the years (2008- 2010- 2017).
 
  - ### Data filtering:
    Filtering the two Csv files. 
